@@ -373,7 +373,7 @@ section .title::after{
     width: 10%;
 }
 .skills-content .right .c::before{
-    width: 80%;
+    width: 50%;
 }
 .skills-content .right .python::before{
     width: 30%;
